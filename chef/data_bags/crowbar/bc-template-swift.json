@@ -89,6 +89,8 @@
       "keystone_instance": "proposal",
       "keystone_service_user": "swift",
       "keystone_delay_auth_decision": false,
+      "user":"swift",
+      "group":"swift",
       "reseller_prefix" : "AUTH_",
       "debug": false,
       "use_slog" : false,
